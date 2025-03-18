@@ -26,7 +26,7 @@ pipeline {
         }
         stage('testingPipeline'){
             steps{
-                echo 'testing auto update'
+                echo 'testing auto update version 2'
             }
         }
     }
