@@ -28,5 +28,6 @@ pipeline {
             steps{
                 echo 'testing auto update'
             }
+        }
     }
 }
